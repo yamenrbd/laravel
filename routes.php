@@ -83,10 +83,8 @@ use App\Post;
 //Route::get('/find',function (){
 //   $result = Post::find(3);
 //    return $result->title;
-//});
+//});test for gitHub
 
-//Route::get('/findif',function (){
 //
-//    return Post::where('title','php2')->get();
-//
-//});
+
+
